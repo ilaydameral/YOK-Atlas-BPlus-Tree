@@ -1,0 +1,5 @@
+*.o
+*.out
+*.exe
+sorted_output.csv
+run_*.csv
